@@ -23,7 +23,7 @@ int main()
             wt[i] += bt[j];
     }
 
-    printf("\nnProcessttBurst Time\tWaiting Time\tTurnaround Time");
+    printf("\n\nProcess\t\tBurst Time\tWaiting Time\tTurnaround Time");
 
     for (i = 0; i < n; i++)
     {
