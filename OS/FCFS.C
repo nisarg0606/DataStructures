@@ -40,3 +40,23 @@ int main()
 
     return 0;
 }
+
+/*
+OUTPUT:
+    Enter total number of processes(maximum 20):3
+
+    Enter Process Burst Timen
+    P[1]:4
+
+    P[2]:5
+
+    P[3]:2
+
+    nProcessttBurst Time    Waiting Time    Turnaround Time
+    P[1]            4               0               4
+    P[2]            5               4               9
+    P[3]            2               9               11
+
+    Average Waiting Time:4
+    Average Turnaround Time:8
+*/
