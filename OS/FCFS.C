@@ -7,7 +7,7 @@ int main()
     printf("Enter total number of processes(maximum 20):");
     scanf("%d", &n);
 
-    printf("\nEnter Process Burst Timen");
+    printf("\nEnter Process Burst Time\n");
     for (i = 0; i < n; i++)
     {
         printf("\nP[%d]:", i + 1);
