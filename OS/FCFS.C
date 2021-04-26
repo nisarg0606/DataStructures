@@ -52,7 +52,7 @@ OUTPUT:
 
     P[3]:2
 
-    nProcessttBurst Time    Waiting Time    Turnaround Time
+    Process     Burst Time    Waiting Time    Turnaround Time
     P[1]            4               0               4
     P[2]            5               4               9
     P[3]            2               9               11
